@@ -43,10 +43,9 @@ export default function Home() {
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl"> What is the Platform/Product?
+                <p className="text-blau Montserrat-Light text-2xl"> What is Binary Bodi?
                 </p>
-                <p className="text-xl text-white Poppitandfinch">
-                  Bodi Oracle,aka Boracle an experimental platform that enables owners to build and deploy their unique stories, principles, philosphies and more.
+                <p className="text-xl text-white Poppitandfinch">Binary Bodi is the name of NFT collection with a limited supply of 7777 ERC 721 NFTs deployed on Matic network
 
                 </p>
               </div>
@@ -56,39 +55,36 @@ export default function Home() {
               <div className="lg:w-/2 w-/4">     <br></br>
                 <p className="text-blau Montserrat-Light text-2xl"> What's the mint price?
                 </p>
-                <p className="text-xl text-white   Poppitandfinch"> 0.01E for Presale and 0.065E for Publicsale
+                <p className="text-xl text-white   Poppitandfinch"> 1.3 MATIC
                 </p>
               </div>
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl">   Who should mint Bodi?
+                <p className="text-blau Montserrat-Light text-2xl">   Who should mint Binary Bodi?
                 </p>
-                <p className="text-xl text-white  Poppitandfinch">
+                <p className="text-xl text-white  Poppitandfinch"> Minting is open to public without any Pre Sale or Whitelisting. Anyone who is interested in
+                  contributing to the development of a social media platform spanning across the web3.
 
-                  One who has the skill, knowledge and capabilities to learn and experience the nature of reality, as it is ; thereby getting inspired, empowered and awaken and vice-versa.
 
                 </p>
               </div>
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl">  What is the Utility of pfp?
+                <p className="text-blau Montserrat-Light text-2xl">  What is the Utility?
                 </p>
-                <p className="text-xl text-white  Poppitandfinch">
+                <p className="text-xl text-white  Poppitandfinch">Apart from the artistic value and the PFP value, Holders get access to the Zib3 platform foremost and a possibility of perpetual Rewards and Royalties.
 
-                  Holders can participate in creating threads, which are life changing expereinces and visions.
-                  A memorable experession of truth or principle, handed down by culture from generations to generation.
                 </p>
               </div>
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl"> What are threads?
+                <p className="text-blau Montserrat-Light text-2xl"> What is Zib3?
                 </p>
                 <p className="text-xl text-white   Poppitandfinch">
-                  A memorable experession of truth or principle, handed down by culture from generations to generation. " short saying that requires interpretation".
-
+                  A web3 social media platform where users get paid for there contents and contributions in a censorship resistant manner.
                 </p>
               </div>
             </div>
@@ -97,8 +93,8 @@ export default function Home() {
                 <p className="text-blau Montserrat-Light text-2xl">How is the Art made?
                 </p>
                 <p className="text-xl text-white  Poppitandfinch">
-                  Created over a period of 10months, the entire collection is made using gemotrical shapes
-                  like Curves, Circles, Triangles and lines. The entire collection is a THREE tier catogorized with
+                  Created over a period of 10months, the entire collection is made using geometrical shapes
+                  like Curves, Circles, Triangles and lines. The entire collection is categorized in THREE tier  with
                   700 attributes spanning across 16 layers.
                 </p>
               </div>
@@ -110,8 +106,8 @@ export default function Home() {
                 </p>
                 <p className="text-xl text-white  Poppitandfinch">
 
-                  Art is a collaborative project by two Bodi's, in which lower torso and outfit is designed by
-                  0xjix who is designer, artist and entrepnuer. Upper torso & Head is designed by 0xjiz, who was the lead brain behind this Art. Both of them are in crypto sphere since 2018, and currently working on Binarybodi.
+                  Art is a collaborative project by two Binary Bodis, in which lower torso and outfit is designed by
+                  0xjix who is designer, artist and a nerdy geek whereas the Upper torso & Head is designed by 0xjiz, who was the lead brain behind this Art. Both of them are in crypto sphere since 2018.
 
                 </p>
               </div>
@@ -126,41 +122,17 @@ export default function Home() {
               </div>
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-              <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl"> How will the project sustain on long term?
-                </p>
-                <p className="text-xl text-white   Poppitandfinch"> Interactions over the oracle are free for Bodi holders, however the platform is open to public for interaction with a small fee for content submissions. New subject/Topic posting also requires a fees to be paid to the Network.
-                </p>
-              </div>
-            </div>  <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-              <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl"> Any Ponzi economics?
-                </p>
-                <p className="text-xl text-white   Poppitandfinch"> Not at all, True gamification pervades.
-                </p>
-              </div>
+
             </div>
             <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
               <div className="lg:w-/2 w-/4">
                 <p className="text-blau Montserrat-Light text-2xl"> What are you gonna do with the funds?
                 </p>
-                <p className="text-xl text-white   Poppitandfinch"> Initial Sale Liquidity is pooled to the Treasury Wallet, 80% of the funds will be used to
-                  procure existing NFTs for the Oracle. 10% of the fund will be utilized by the team and
-                  development.
+                <p className="text-xl text-white   Poppitandfinch">  100% of the funds will be used and utilized by the team for the production and launch of zib3.
                 </p>
               </div>
             </div>
-            <div id="traits" className="flex flex-wrap justify-around  mx-6 py-6">
-              <div className="lg:w-/2 w-/4">
-                <p className="text-blau Montserrat-Light text-2xl"> How are the fund allocated?
-                </p>
-                <p className="text-xl text-white   Poppitandfinch">    Team: 15%<br></br>
-                  Dev: 25%<br></br>
-                  Bodi Treasury: 55%<br></br>
-                  Marketing: 5%
-                </p>
-              </div>
-            </div>
+
 
           </div>
         </div>
