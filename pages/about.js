@@ -45,7 +45,7 @@ export default function Home() {
 
         <p className="text-2xl text-white my-6  Poppitandfinch">
 
-          <br></br>  Our project is an experiment, we are trying to showcase reality breaking wisdom and experience. We are a small team building this Mega project without any influencers or FOMO, The only hype we offer is a golden opportunity to Speak truth
+          <br></br>  Our project is an experiment, we are trying to showcase reality breaking wisdom and experience. We are a small team building this Mega project without any influencer or FOMO, The only hype we offer is a golden opportunity to become part of this initiative.
           If you are inspired, let us know how can you contribute in this mission. Please write to us
           <span className="text-1xl Poppitandfinchsans text-blau  hover:text-white m-6">neo@binarybodi.xyz</span></p>
       </div>
