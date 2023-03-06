@@ -1,2 +1,2 @@
-# BodiNFT
-Website for Binary Bodi NFT
+# website
+Minting website of Binary Bodi NFT

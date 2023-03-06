@@ -1,0 +1,18 @@
+#message {
+    display: none;
+}
+
+@media (max-width: 500px) {
+    #demo {
+        display: none;
+    }
+
+    #message {
+        display: block;
+    }
+}
+
+video {
+    width: 100%;
+    max-height: 100%;
+}
